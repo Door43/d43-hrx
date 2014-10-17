@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hrx:home|Door43 (hrx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hrx|d43-hrx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hrx/archive/master.zip|d43-hrx.zip]]
+
+**Recent Changes**
+{{changes>ns = hrx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hrx|Ethnologue data]]
+
